@@ -3,3 +3,13 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\bin\De
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Domain.Entities\obj\Debug\Domain.Entities.pdb
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\Domain.Entities.dll.config
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\Domain.Entities.dll
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\Domain.Entities.pdb
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\EntityFramework.dll
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\EntityFramework.xml
+E:\code\bloom\newrelicdatareporting\Domain.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\code\bloom\newrelicdatareporting\Domain.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
+E:\code\bloom\newrelicdatareporting\Domain.Entities\obj\Debug\Domain.Entities.dll
+E:\code\bloom\newrelicdatareporting\Domain.Entities\obj\Debug\Domain.Entities.pdb

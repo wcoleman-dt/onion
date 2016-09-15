@@ -5,3 +5,10 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services.Interfaces\bi
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services.Interfaces\obj\Debug\Services.Interfaces.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\bin\Debug\Services.Interfaces.dll
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\bin\Debug\Domain.Entities.dll
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\bin\Debug\Domain.Entities.pdb
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\obj\Debug\Services.Interfaces.dll
+E:\code\bloom\newrelicdatareporting\Services.Interfaces\obj\Debug\Services.Interfaces.pdb

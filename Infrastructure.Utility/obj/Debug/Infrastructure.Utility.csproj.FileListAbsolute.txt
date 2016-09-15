@@ -1,0 +1,5 @@
+E:\code\onion\onion\Infrastructure.Utility\bin\Debug\Infrastructure.Utility.dll
+E:\code\onion\onion\Infrastructure.Utility\bin\Debug\Infrastructure.Utility.pdb
+E:\code\onion\onion\Infrastructure.Utility\obj\Debug\Infrastructure.Utility.csprojResolveAssemblyReference.cache
+E:\code\onion\onion\Infrastructure.Utility\obj\Debug\Infrastructure.Utility.dll
+E:\code\onion\onion\Infrastructure.Utility\obj\Debug\Infrastructure.Utility.pdb

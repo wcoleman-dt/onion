@@ -1,0 +1,11 @@
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\Infrastructure.Utility.Tests.dll
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\Infrastructure.Utility.Tests.pdb
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\Domain.Utility.dll
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\nunit.framework.dll
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\Domain.Utility.pdb
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\nunit.framework.xml
+E:\code\onion\onion\Infrastructure.Utility.Tests\obj\Debug\Infrastructure.Utility.Tests.csprojResolveAssemblyReference.cache
+E:\code\onion\onion\Infrastructure.Utility.Tests\obj\Debug\Infrastructure.Utility.Tests.dll
+E:\code\onion\onion\Infrastructure.Utility.Tests\obj\Debug\Infrastructure.Utility.Tests.pdb
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\Domain.Entities.dll
+E:\code\onion\onion\Infrastructure.Utility.Tests\bin\Debug\Domain.Entities.pdb

@@ -1,0 +1,12 @@
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Utility.dll.config
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Utility.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Utility.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Entities.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.HashingAlgorithm.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Interfaces.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Entities.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.HashingAlgorithm.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\bin\Debug\Domain.Interfaces.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\obj\Debug\Domain.Utility.csprojResolveAssemblyReference.cache
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\obj\Debug\Domain.Utility.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Utility\obj\Debug\Domain.Utility.pdb

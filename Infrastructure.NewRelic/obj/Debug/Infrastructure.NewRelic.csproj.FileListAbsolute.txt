@@ -1,0 +1,5 @@
+E:\code\onion\onion\Infrastructure.NewRelic\bin\Debug\Infrastructure.NewRelic.dll
+E:\code\onion\onion\Infrastructure.NewRelic\bin\Debug\Infrastructure.NewRelic.pdb
+E:\code\onion\onion\Infrastructure.NewRelic\obj\Debug\Infrastructure.NewRelic.csprojResolveAssemblyReference.cache
+E:\code\onion\onion\Infrastructure.NewRelic\obj\Debug\Infrastructure.NewRelic.dll
+E:\code\onion\onion\Infrastructure.NewRelic\obj\Debug\Infrastructure.NewRelic.pdb

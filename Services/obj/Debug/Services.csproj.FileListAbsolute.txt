@@ -9,3 +9,16 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\bin\Debug\Ser
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\obj\Debug\Services.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Services\obj\Debug\Services.pdb
+E:\code\onion\onion\Services\bin\Debug\Services.dll
+E:\code\onion\onion\Services\bin\Debug\Services.pdb
+E:\code\onion\onion\Services\bin\Debug\Domain.Entities.dll
+E:\code\onion\onion\Services\bin\Debug\Domain.Interfaces.dll
+E:\code\onion\onion\Services\bin\Debug\Domain.Utility.dll
+E:\code\onion\onion\Services\bin\Debug\Services.Interfaces.dll
+E:\code\onion\onion\Services\bin\Debug\Domain.Entities.pdb
+E:\code\onion\onion\Services\bin\Debug\Domain.Interfaces.pdb
+E:\code\onion\onion\Services\bin\Debug\Domain.Utility.pdb
+E:\code\onion\onion\Services\bin\Debug\Services.Interfaces.pdb
+E:\code\onion\onion\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\code\onion\onion\Services\obj\Debug\Services.dll
+E:\code\onion\onion\Services\obj\Debug\Services.pdb

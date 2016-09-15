@@ -7,3 +7,17 @@ C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\bi
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
 C:\Users\chetan\Documents\GitHub\OnionArchitecture.Sample\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll.config
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Domain.Entities.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Domain.Interfaces.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\EntityFramework.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Domain.Entities.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\Domain.Interfaces.pdb
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\EntityFramework.xml
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+E:\code\bloom\newrelicdatareporting\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb
